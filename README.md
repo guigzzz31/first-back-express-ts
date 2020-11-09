@@ -11,7 +11,7 @@
 
 ``` npm start```
 
-``` run npm start:watch```
+``` npm run start:watch```
 
 
 #enjoy
